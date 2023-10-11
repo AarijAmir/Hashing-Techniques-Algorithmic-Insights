@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+I implemented various collision resolution methods in Hashing. These methods, including linear probing, quadratic probing, double hashing, and direct chaining with circular double linked lists, enable efficient handling of hash collisions, ensuring data retrieval and storage in a structured and organized manner.
